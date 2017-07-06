@@ -35,12 +35,6 @@
 
 #define TaskFlag 0
 #define ColorSignal 0
-// static int riLowH = 0;
-// static int riHighH = 210;
-// static int riLowS = 90;
-// static int riHighS = 230;
-// static int riLowV = 90;
-// static int riHighV = 255;
 
 using namespace cv;
 using namespace std;
